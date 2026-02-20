@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Hero（feat. Daichi Yamamoto）",
+  "base_artist": "Campanella",
+  "createdAt": "2026-02-20T07:36:59.886405Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hero",
+      "artist": "Campanella featuring Daichi Yamamoto",
+      "has_synced": false,
+      "path": "select/pl_01_Hero_Campanella_featuring_Daichi_Yamamoto.txt"
+    }
+  ]
+}
